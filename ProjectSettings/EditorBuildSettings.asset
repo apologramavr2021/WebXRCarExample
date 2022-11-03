@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarScene.unity
+    guid: 707fee0175acaf3468a2025e6e367a39
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 2dc9446cf5a324a499626b772fd5c7c8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e913ec76821ffae4b845165edc5120a3, type: 2}
